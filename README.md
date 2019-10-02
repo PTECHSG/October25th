@@ -17,4 +17,6 @@ Complete the assessment and claim your digital badge and certificate!
 
 Cheers and looking forward to meeting the class soon! 
 
-- Z
+PS: For those who want to challenge themselves and deploy the application, please check out the IBM Code Pattern we have here: https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/
+
+- zacaintmyname
