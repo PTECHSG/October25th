@@ -1,6 +1,9 @@
 ## October25th
 >Lesson Plan for the 25th of October 
 
+Please use this link to sign-up with IBM Cloud: 
+ibm.biz/Bdz32m
+
 ### Building a Chatbot
 
 Hi Team, for today we will be going through the fundamentals of building a virtual assistant on IBM Cloud! 
